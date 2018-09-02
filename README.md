@@ -1,2 +1,2 @@
 # EE_SCI
-My documentation of EE study.
+My documentation of EE study,which needs to be updated.
